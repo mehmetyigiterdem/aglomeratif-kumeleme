@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\Aglomeratif kümeleme algoritması\Aglomeratif kümeleme algoritması\bin\Debug\net6.0\Aglomeratif kümeleme algoritması.exe
+C:\Users\Hp\source\repos\Aglomeratif kümeleme algoritması\Aglomeratif kümeleme algoritması\bin\Debug\net6.0\Aglomeratif kümeleme algoritması.deps.json
+C:\Users\Hp\source\repos\Aglomeratif kümeleme algoritması\Aglomeratif kümeleme algoritması\bin\Debug\net6.0\Aglomeratif kümeleme algoritması.runtimeconfig.json
+C:\Users\Hp\source\repos\Aglomeratif kümeleme algoritması\Aglomeratif kümeleme algoritması\bin\Debug\net6.0\Aglomeratif kümeleme algoritması.dll
+C:\Users\Hp\source\repos\Aglomeratif kümeleme algoritması\Aglomeratif kümeleme algoritması\bin\Debug\net6.0\Aglomeratif kümeleme algoritması.pdb
+C:\Users\Hp\source\repos\Aglomeratif kümeleme algoritması\Aglomeratif kümeleme algoritması\obj\Debug\net6.0\Aglomeratif kümeleme algoritması.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Aglomeratif kümeleme algoritması\Aglomeratif kümeleme algoritması\obj\Debug\net6.0\Aglomeratif kümeleme algoritması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Aglomeratif kümeleme algoritması\Aglomeratif kümeleme algoritması\obj\Debug\net6.0\Aglomeratif kümeleme algoritması.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Aglomeratif kümeleme algoritması\Aglomeratif kümeleme algoritması\obj\Debug\net6.0\Aglomeratif kümeleme algoritması.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Aglomeratif kümeleme algoritması\Aglomeratif kümeleme algoritması\obj\Debug\net6.0\Aglomeratif kümeleme algoritması.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Aglomeratif kümeleme algoritması\Aglomeratif kümeleme algoritması\obj\Debug\net6.0\Aglomeratif kümeleme algoritması.dll
+C:\Users\Hp\source\repos\Aglomeratif kümeleme algoritması\Aglomeratif kümeleme algoritması\obj\Debug\net6.0\refint\Aglomeratif kümeleme algoritması.dll
+C:\Users\Hp\source\repos\Aglomeratif kümeleme algoritması\Aglomeratif kümeleme algoritması\obj\Debug\net6.0\Aglomeratif kümeleme algoritması.pdb
+C:\Users\Hp\source\repos\Aglomeratif kümeleme algoritması\Aglomeratif kümeleme algoritması\obj\Debug\net6.0\Aglomeratif kümeleme algoritması.genruntimeconfig.cache
+C:\Users\Hp\source\repos\Aglomeratif kümeleme algoritması\Aglomeratif kümeleme algoritması\obj\Debug\net6.0\ref\Aglomeratif kümeleme algoritması.dll
